@@ -2,9 +2,3 @@ streamlit
 openai==0.27.4
 streamlit-audiorecorder==0.0.2
 gTTS==2.3.1
-
-build-essential # 컴파일러 및 빌드 도구
-python3-dev     # Python 개발 헤더 (Python C API를 사용하기 위해 필요)
-libblas-dev     # BLAS (Basic Linear Algebra Subprograms) 개발 라이브러리
-liblapack-dev   # LAPACK (Linear Algebra PACKage) 개발 라이브러리
-gfortran        # Fortran 컴파일러 (numpy가 Fortran 코드 사용)
