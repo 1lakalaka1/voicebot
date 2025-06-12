@@ -1,6 +1,2 @@
-AudioRecorder==0.1
-gTTS==2.3.1
-numpy==2.3.0
-openai==0.27.4
 streamlit==1.45.1
 streamlit-audiorecorder==0.0.2
