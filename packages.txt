@@ -1,1 +1,7 @@
 ffmpeg
+# packages.txt
+build-essential
+python3-dev
+libblas-dev
+liblapack-dev
+gfortran
